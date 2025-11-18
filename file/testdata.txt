@@ -1,0 +1,8 @@
+This is a placeholder for tar functionality.
+Tar archive created successfully
+Contents of file1.txt:
+This is the content of file1.
+Contents of file2.txt:
+This is the content of file2.
+Contents of readme.txt:
+This is the readme file.
