@@ -14,7 +14,7 @@ import (
 )
 
 func main() {
-	PriorityQueueFunc()
+	fmt.Println(time.Now().Format("15:04:05"))
 }
 
 func printFunc() {
